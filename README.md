@@ -8,7 +8,7 @@
 
 - 👋 Hi, my nickname is Zuca
 - 👀 I’m interested in working remotely
-- 🌱 I’m currently learning how to code in C, at 42 Lisboa
+- 🌱 I’m currently a student at 42 Lisboa
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jos%C3%A9-calejo-pires-1a5929155/)
 
 <!---
