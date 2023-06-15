@@ -2,11 +2,10 @@
 ![GitHub Snake dark](https://github.com/diogo-crcoelho/diogo-crcoelho/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only) 
 
 <div align="center">
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/claa98fot00110gl4ll24rmsl/stats?cursusId=21&coalitionId=291" alt="jnuncio-'s 42 stats" /></a>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/claa98fot00110gl4ll24rmsl/stats?cursusId=21&coalitionId=290" /></a>
 </div>
 </p>
 
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/claa98fot00110gl4ll24rmsl/stats?cursusId=21&coalitionId=290" /></a>
 
 - 👋 Hi, my nickname is Zuca
 - 👀 I’m interested in working remotely
