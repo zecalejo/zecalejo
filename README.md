@@ -6,6 +6,8 @@
 </div>
 </p>
 
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/claa98fot00110gl4ll24rmsl/stats?cursusId=21&coalitionId=290" /></a>
+
 - 👋 Hi, my nickname is Zuca
 - 👀 I’m interested in working remotely
 - 🌱 I’m currently a student at 42 Lisboa
